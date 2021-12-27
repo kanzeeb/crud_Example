@@ -1,0 +1,24 @@
+.container {
+  border: 2px solid #f52900;
+  display: flex;
+  height: auto;
+  width: 12rem;
+}
+
+.pokemon--img-container {
+  background-color: #87f5c0;
+  width: 8rem;
+}
+
+.pokemon--img {
+  width: 6rem;
+}
+
+.pokemon-data {
+  background-color: #d3f1f2;
+  padding: 1rem 2rem;
+  font-family: "pokemon-font", monospace;
+  font-size: 20px;
+  font-weight: 400;
+  -webkit-font-smoothing: none;
+}

@@ -28,6 +28,11 @@
   color: #61dafb;
 }
 
+.App-container {
+  display: grid;
+  grid-template: 100fr / 30fr 70fr;
+  border: 1px solid lightskyblue;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

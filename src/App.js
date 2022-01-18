@@ -17,10 +17,7 @@ class App extends Component {
         <div>
           <Users /> 
         </div> 
-        </div>
-        <div>
-        <Pokemon />
-        </div>
+        </div>       
       </React.Fragment>
     );
   }
